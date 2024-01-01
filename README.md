@@ -6,3 +6,5 @@ I started learning JAVASCRIPT I'll use GitHub in whatever I learn in JS.
 I'm learning JAVASCRIPT by Thapa Technical and 
 <br>
 I'm learning GITHUB and GIT by apanacollege.
+
+    README.md file has been updated by git bash in VSCode
